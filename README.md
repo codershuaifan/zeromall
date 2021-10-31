@@ -1,4 +1,4 @@
-# zeromall
+# ShoppingMall
 
 ## Project setup
 ```

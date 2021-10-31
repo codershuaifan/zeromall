@@ -41,7 +41,7 @@ export default {
   .ggoodsitem>img{
     border-radius: 5px;
     width: 100%;
-    height: 80%;
+    height: 85%;
   }
   .ggoodsitem p{
     overflow: hidden;
@@ -55,7 +55,7 @@ export default {
   }
   .ggoodsitem div{
     position: absolute;
-    bottom: 8px;
+    bottom: 6px;
     left: 15px;
   }
   .ggoodsitem span{

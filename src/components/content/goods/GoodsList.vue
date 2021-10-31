@@ -28,9 +28,10 @@ export default {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around ;
+    padding: 5px;
   }
   .goodsitemsty{
     width: 48%;
-    height:280px;
+    height:300px;
   }
 </style>
